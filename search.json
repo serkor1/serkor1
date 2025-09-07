@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "grants.html",
+    "href": "grants.html",
+    "title": "Serkan Korkmaz",
+    "section": "",
+    "text": "{\n  \"Rockwool Foundation\": {\n    \"amount\": \"2,600,000 DKK\",\n    \"year\": 2024,\n    \"pi\": \"Jonas Hirani\",\n    \"role\": \"Co-applicant\",\n    \"project\": \"Migrating Needs, Migrating Services – Exploring the Regional Divide in Needs and Healthcare Service Availability\"\n  },\n\n  \"Independent Danish Research Fund\": {\n    \"amount\": \"3,100,000 DKK\",\n    \"year\": 2024,\n    \"pi\": \"Anika Liversage\",\n    \"role\": \"Co-applicant\",\n    \"project\": \"Care provisions for older ethnic minorities – understanding diverse approaches\"\n  },\n\n  \"Healthcare Denmark\": {\n    \"amount\": \"120,000 DKK\",\n    \"year\": 2023,\n    \"pi\": \"Bruce Landon\",\n    \"role\": \"Site-lead\",\n    \"project\": \"International Health Systems Research Collaborative (IHSRC)\"\n  }\n}"
+  },
+  {
+    "objectID": "grants.html#grants",
+    "href": "grants.html#grants",
+    "title": "Serkan Korkmaz",
+    "section": "",
+    "text": "{\n  \"Rockwool Foundation\": {\n    \"amount\": \"2,600,000 DKK\",\n    \"year\": 2024,\n    \"pi\": \"Jonas Hirani\",\n    \"role\": \"Co-applicant\",\n    \"project\": \"Migrating Needs, Migrating Services – Exploring the Regional Divide in Needs and Healthcare Service Availability\"\n  },\n\n  \"Independent Danish Research Fund\": {\n    \"amount\": \"3,100,000 DKK\",\n    \"year\": 2024,\n    \"pi\": \"Anika Liversage\",\n    \"role\": \"Co-applicant\",\n    \"project\": \"Care provisions for older ethnic minorities – understanding diverse approaches\"\n  },\n\n  \"Healthcare Denmark\": {\n    \"amount\": \"120,000 DKK\",\n    \"year\": 2023,\n    \"pi\": \"Bruce Landon\",\n    \"role\": \"Site-lead\",\n    \"project\": \"International Health Systems Research Collaborative (IHSRC)\"\n  }\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Serkan Korkmaz",
+    "section": "",
+    "text": "{\n  \"about_me\": {\n    \"name\": \"Serkan Korkmaz\",\n    \"birth year\": 1989     \n    },\n    \n  \"research_interests\": [\n    \"Inequality\",\n    \"Applied Econometrics\",\n    \"Health Economics\"\n    ]\n}\nI am a Ph.D.-student at the Center for Economic Behavior and Inequality (CEBI). My primary research interest is in studying inequality across Economic domains.\n\n\n{\n  \"R_packages\": [\n    \"cryptoQuotes\",\n    \"SLmetrics\",\n    \"talib\"\n  ]\n}\nVisit my {Github}- or {Gitlab}-profile for more information."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Serkan Korkmaz",
+    "section": "",
+    "text": "{\n  \"about_me\": {\n    \"name\": \"Serkan Korkmaz\",\n    \"birth year\": 1989     \n    },\n    \n  \"research_interests\": [\n    \"Inequality\",\n    \"Applied Econometrics\",\n    \"Health Economics\"\n    ]\n}\nI am a Ph.D.-student at the Center for Economic Behavior and Inequality (CEBI). My primary research interest is in studying inequality across Economic domains.\n\n\n{\n  \"R_packages\": [\n    \"cryptoQuotes\",\n    \"SLmetrics\",\n    \"talib\"\n  ]\n}\nVisit my {Github}- or {Gitlab}-profile for more information."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Serkan Korkmaz",
+    "section": "Publications",
+    "text": "Publications\n\n\nNedergaard, Helene Korvenius, Hanne Irene Jensen, Mette Stylsvig, Hanne Tanghus Olsen, Serkan Korkmaz, Thomas Strøm, and Palle Toft. 2020. “Effect of Nonsedation on Cognitive Function in Survivors of Critical Illness.” Critical Care Medicine 48 (12): 1790–98.\n\n\nNedergaard, Helene Korvenius, Serkan Korkmaz, Hanne Tanghus Olsen, Hanne Irene Jensen, Thomas Strøm, and Palle Toft. 2022. “Failure of Non-Sedation Strategy in Critically Ill, Mechanically Ventilated Patients-a Retrospective, Post-Hoc Analysis of the NONSEDA Trial.” Journal of Critical Care 68: 66–71.\n\n\nOlsen, Hanne T, Helene K Nedergaard, Catherine L Hough, Serkan Korkmaz, Hanne I Jensen, Thomas Strøm, and Palle Toft. 2021. “Non-Sedation—Does It Improve Health-Related Quality of Life After Critical Illness? A 3-Month Follow-up Sub-Study of the NONSEDA Trial.” Acta Anaesthesiologica Scandinavica 65 (4): 481–88.\n\n\nOlsen, Hanne T, Helene K Nedergaard, Thomas Strøm, Jakob Oxlund, Karl-Andre Wian, Lars M Ytrebø, Bjørn A Kroken, et al. 2020. “Nonsedation or Light Sedation in Critically Ill, Mechanically Ventilated Patients.” New England Journal of Medicine 382 (12): 1103–11.\n\n\nZwiers, Laura C, Timo B Brakenhoff, Brianna M Goodale, Duco Veen, George S Downward, Vladimir Kovacevic, Andjela Markovic, et al. 2025. “Remote Early Detection of SARS-CoV-2 Infections Using a Wearable-Based Algorithm: Results from the COVID-RED Study, a Prospective Randomised Single-Blinded Crossover Trial.” PloS One 20 (6): e0325116."
+  }
+]
