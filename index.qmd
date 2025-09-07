@@ -1,0 +1,58 @@
+---
+author:
+  - name: Serkan Korkmaz
+    orcid: 0000-0002-5052-0982
+    email: ser@econ.ku.dk
+    phone: +45 33 48 09 69
+    degrees: Ph.D.-student
+    affiliations:
+      - name: The University of Copenhagen
+        address:  Øster Farimagsgade 5, Building 35
+        city: Copenhagen K
+        postal-code: 1353
+      - name: The Danish Center for Social Science Research
+        address: Herluf Trolles Gade 11
+        city: Copenhagen K
+        postal-code: 1052
+bibliography: references.bib
+nocite: |
+  @olsen2020nonsedation; @nedergaard2020effect; @zwiers2025remote; @olsen2021non; @nedergaard2022failure
+---
+
+## About me
+
+```json
+{
+  "about_me": {
+    "name": "Serkan Korkmaz",
+    "birth year": 1989     
+    },
+    
+  "research_interests": [
+    "Inequality",
+    "Applied Econometrics",
+    "Health Economics"
+    ]
+}
+```
+
+I am a Ph.D.-student at the Center for Economic Behavior and Inequality (CEBI). My primary research interest is in studying inequality across Economic domains.
+
+### Open-source contributions
+
+```json
+{
+  "R_packages": [
+    "cryptoQuotes",
+    "SLmetrics",
+    "talib"
+  ]
+}
+```
+
+Visit my [{Github}](https://github.com/serkor1)- or [{Gitlab}](https://gitlab.com/serkor1)-profile for more information.
+
+## Publications
+
+::: {#refs}
+:::

@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  search: false
+  title: "Serkan Korkmaz"
+  navbar:
+    pinned: true
+    logo: github
+    title: "Home"
+    left:
+      - text: "Grants"
+        icon: award
+        href: grants.qmd
+
+    right:  
+      - icon: github
+        href: https://github.com/serkor1
+      - icon: gitlab
+        href: https://gitlab.com/serkor1
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+    highlight-style: github
+
+
+

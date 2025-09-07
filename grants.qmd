@@ -1,0 +1,49 @@
+---
+author:
+  - name: Serkan Korkmaz
+    orcid: 0000-0002-5052-0982
+    email: ser@econ.ku.dk
+    phone: +45 33 48 09 69
+    degrees: Ph.D.-student
+    affiliations:
+      - name: The University of Copenhagen
+        address:  Øster Farimagsgade 5, Building 35
+        city: Copenhagen K
+        postal-code: 1353
+      - name: The Danish Center for Social Science Research
+        address: Herluf Trolles Gade 11
+        city: Copenhagen K
+        postal-code: 1052
+code-overflow: wrap
+---
+
+## Grants
+
+```json
+{
+  "Rockwool Foundation": {
+    "amount": "2,600,000 DKK",
+    "year": 2024,
+    "pi": "Jonas Hirani",
+    "role": "Co-applicant",
+    "project": "Migrating Needs, Migrating Services – Exploring the Regional Divide in Needs and Healthcare Service Availability"
+  },
+
+  "Independent Danish Research Fund": {
+    "amount": "3,100,000 DKK",
+    "year": 2024,
+    "pi": "Anika Liversage",
+    "role": "Co-applicant",
+    "project": "Care provisions for older ethnic minorities – understanding diverse approaches"
+  },
+
+  "Healthcare Denmark": {
+    "amount": "120,000 DKK",
+    "year": 2023,
+    "pi": "Bruce Landon",
+    "role": "Site-lead",
+    "project": "International Health Systems Research Collaborative (IHSRC)"
+  }
+}
+```
+
